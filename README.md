@@ -17,19 +17,15 @@
 
 # Labs Utilities
 
->Collection of various utilities used by NRLabs Team
+Collection of various utilities used by NRLabs Team
 
-## Installation
-
-> [Include a step-by-step procedure on how to get your code installed. Be sure to include any third-party dependencies that need to be installed separately]
-
-
+- repo-scan.sh: scan GitHub/GHE repositories for deep dependencies
 
 ## Support
 
 New Relic has open-sourced this project. This project is provided AS-IS WITHOUT WARRANTY OR DEDICATED SUPPORT. Issues and contributions should be reported to the project here on GitHub.
 
->We encourage you to bring your experiences and questions to the [Explorers Hub](https://discuss.newrelic.com) where our community members collaborate on solutions and new ideas.
+We encourage you to bring your experiences and questions to the [Explorers Hub](https://discuss.newrelic.com) where our community members collaborate on solutions and new ideas.
 
 
 ## Contributing
@@ -44,6 +40,6 @@ If you believe you have found a security vulnerability in this project or any of
 
 ## License
 
-[Labs Utilities] is licensed under the [Apache 2.0](http://apache.org/licenses/LICENSE-2.0.txt) License.
+Labs Utilities is licensed under the [Apache 2.0](http://apache.org/licenses/LICENSE-2.0.txt) License.
 
 
